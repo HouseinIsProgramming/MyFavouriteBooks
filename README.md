@@ -26,7 +26,7 @@ A practical guide to using Python for automating everyday tasks, making it easie
 
 ---
 
-### Beyond the Basic Stuff with Python – *Al Sweigart* -- 
+### Beyond the Basic Stuff with Python – *Al Sweigart* 
 ![Beyond the Basic Stuff](https://m.media-amazon.com/images/I/71X-NN4LIhL._SY522_.jpg)
 
 This book delves deeper into Python, focusing on writing clean, idiomatic code and exploring more advanced features of the language.
@@ -34,7 +34,7 @@ This book delves deeper into Python, focusing on writing clean, idiomatic code a
 
 ---
 
-### Think Like a Programmer – *V. Anton Spraul *
+### Think Like a Programmer – *V. Anton Spraul * -- in progress
 ![Beyond the Basic Stuff](https://m.media-amazon.com/images/I/71K9kh-Xh+L._SY522_.jpg)
 
 This book shows that learning programming isn't just about learning syntax of languages, but it is about developing critical thinking, problem solving skills and using the right tools to tackle challenges correctly.
