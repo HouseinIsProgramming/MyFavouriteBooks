@@ -27,7 +27,7 @@ A practical guide to using Python for automating everyday tasks, making it easie
 ---
 
 ### Beyond the Basic Stuff with Python – *Al Sweigart* -- 
-![Beyond the Basic Stuff](https://m.media-amazon.com/images/I/81aiJhi+7KL._SY522_.jpg)
+![Beyond the Basic Stuff](https://m.media-amazon.com/images/I/71X-NN4LIhL._SY522_.jpg)
 
 This book delves deeper into Python, focusing on writing clean, idiomatic code and exploring more advanced features of the language.
 
